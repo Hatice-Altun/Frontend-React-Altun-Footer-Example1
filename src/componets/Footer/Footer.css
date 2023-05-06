@@ -19,3 +19,13 @@
     color: white;
     margin: 5px;
 }
+
+@media screen and (max-width: 768px) {
+    .footer {
+        height: 140px;
+    }
+
+    .socialMedia svg {
+        font-size: 20px;
+    }
+}
